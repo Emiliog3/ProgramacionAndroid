@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Otros recursos de cadena -->
+    <string name="app_name">ConsumoJSONApp</string>
+    <string name="image_desc">Descripción de la imagen en la primera pantalla</string>
+    <string name="fruit_image">Imagen de la fruta</string>
+
+</resources>
